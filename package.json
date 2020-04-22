@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "chai": "^4.1.2",
+    "core-js": "^3.6.5",
     "eslint": "^4.19.1",
     "fetch-mock": "^6.3.0",
     "jsdom": "~8.0.0-0",
@@ -19,5 +20,9 @@
     "mocha": "^5.0.5",
     "mocha-jsdom": "~1.1.0",
     "node-fetch": "^2.1.2"
-  }
+  },
+  
+  "start": "SET NODE_ENV=dev && node ./bin/www",
+  "devstart": "SET NODE_ENV=dev && nodemon ./bin/www",
+  "test": "mocha --timeout 80000" 
 }

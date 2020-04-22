@@ -1,6 +1,71 @@
 {
   "movies": [
+    {
+      "id": 1,
+      "title": "JOKER",
+      "voteCount": 30,
+      "originalLanguage": "English",
+      "overview": "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City.. Isolated, bullied and disregarded by society, Fleck transforms into the criminal mastermind known as the Joker",
+      "posterPath": "../images/M1_Joker.jpg"
+    },
+    {
+      "id": 2,
+      "title": "AVENGERS",
+      "voteCount": 52,
+      "originalLanguage": "English",
+      "overview": "Nick Fury is compelled to launch the Avengers Initiative when Loki poses a threat to planet Earth. His squad of superheroes put their minds together to accomplish the task",
+      "posterPath": "../images/M2_Avengers.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "PIRATES",
+      "voteCount": 28,
+      "originalLanguage": "English",
+      "overview": "A band of pirates and a group of bandits fight to catch a grey whale that has swallowed a royal stamp. action comedy that takes place on the high seas at the start of the Joseon dynasty",
+      "posterPath": "../images/M2_Pirates.jpg"
+    },
+    {
+      "id": 4,
+      "title": "CONJURING",
+      "voteCount": 60,
+      "originalLanguage": "English",
+      "overview": "The Perron family moves into a farmhouse where they experience supernatural phenomena. However, they consult demonologists, Ed and Lorraine, to help them get rid of the evil entity haunting them",
+      "posterPath": "../images/M4_Conjuring.jpg"
+    },
+    {
+      "id": 5,
+      "title": "FINDING NEMO",
+      "voteCount": 22,
+      "originalLanguage": "English",
+      "overview": "After his son gets abducted from the Great Barrier Reef and is dispatched to Sydney, Marlin, a meek clownfish, enlists the help of a forgetful fish and embarks on a journey to bring him home",
+      "posterPath": "../images/M5_Nemo.jpg"
+    },
+    {
+      "id": 6,
+      "title": "LION KING",
+      "voteCount": 40,
+      "originalLanguage": "English",
+      "overview": "As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne",
+      "posterPath": "../images/M6_Lionking.jpg"
+    },
+    {
+      "id": 7,
+      "title": "NARNIA",
+      "voteCount": 53,
+      "originalLanguage": "English",
+      "overview": "While playing, Lucy and her siblings find a wardrobe that lands them in a mystical place called Narnia. Here they realise that it was fated and they must now unite with Aslan to defeat an evil queen",
+      "posterPath": "../images/M7_Narnia.jpg"
+    }
   ],
   "favourites": [
+    {
+      "id": 6,
+      "title": "LION KING",
+      "voteCount": 40,
+      "originalLanguage": "English",
+      "overview": "As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne",
+      "posterPath": "../images/M6_Lionking.jpg"
+    }
+    
   ]
 }
